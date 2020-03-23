@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/saifpartners-frontend/static/css/main.6c5e70fc.chunk.css",
+    "main.js": "/saifpartners-frontend/static/js/main.b053879a.chunk.js",
+    "main.js.map": "/saifpartners-frontend/static/js/main.b053879a.chunk.js.map",
+    "runtime-main.js": "/saifpartners-frontend/static/js/runtime-main.acaa2864.js",
+    "runtime-main.js.map": "/saifpartners-frontend/static/js/runtime-main.acaa2864.js.map",
+    "static/js/2.3c63cf79.chunk.js": "/saifpartners-frontend/static/js/2.3c63cf79.chunk.js",
+    "static/js/2.3c63cf79.chunk.js.map": "/saifpartners-frontend/static/js/2.3c63cf79.chunk.js.map",
+    "index.html": "/saifpartners-frontend/index.html",
+    "precache-manifest.5b5fa85b877a168612b662b2f41f9368.js": "/saifpartners-frontend/precache-manifest.5b5fa85b877a168612b662b2f41f9368.js",
+    "service-worker.js": "/saifpartners-frontend/service-worker.js",
+    "static/css/main.6c5e70fc.chunk.css.map": "/saifpartners-frontend/static/css/main.6c5e70fc.chunk.css.map",
+    "static/js/2.3c63cf79.chunk.js.LICENSE.txt": "/saifpartners-frontend/static/js/2.3c63cf79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acaa2864.js",
+    "static/js/2.3c63cf79.chunk.js",
+    "static/css/main.6c5e70fc.chunk.css",
+    "static/js/main.b053879a.chunk.js"
+  ]
+}
