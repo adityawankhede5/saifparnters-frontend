@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/saifparnters-frontend/static/css/main.6c5e70fc.chunk.css",
-    "main.js": "/saifparnters-frontend/static/js/main.8d46f483.chunk.js",
-    "main.js.map": "/saifparnters-frontend/static/js/main.8d46f483.chunk.js.map",
+    "main.css": "/saifparnters-frontend/static/css/main.ea9eefe9.chunk.css",
+    "main.js": "/saifparnters-frontend/static/js/main.5aed366b.chunk.js",
+    "main.js.map": "/saifparnters-frontend/static/js/main.5aed366b.chunk.js.map",
     "runtime-main.js": "/saifparnters-frontend/static/js/runtime-main.e4ea00a4.js",
     "runtime-main.js.map": "/saifparnters-frontend/static/js/runtime-main.e4ea00a4.js.map",
     "static/js/2.3c63cf79.chunk.js": "/saifparnters-frontend/static/js/2.3c63cf79.chunk.js",
     "static/js/2.3c63cf79.chunk.js.map": "/saifparnters-frontend/static/js/2.3c63cf79.chunk.js.map",
     "index.html": "/saifparnters-frontend/index.html",
-    "precache-manifest.58b2f8b76c804be40e260a04ec3e9472.js": "/saifparnters-frontend/precache-manifest.58b2f8b76c804be40e260a04ec3e9472.js",
+    "precache-manifest.306c6afa870ffc24fbaf87276cbfa663.js": "/saifparnters-frontend/precache-manifest.306c6afa870ffc24fbaf87276cbfa663.js",
     "service-worker.js": "/saifparnters-frontend/service-worker.js",
-    "static/css/main.6c5e70fc.chunk.css.map": "/saifparnters-frontend/static/css/main.6c5e70fc.chunk.css.map",
+    "static/css/main.ea9eefe9.chunk.css.map": "/saifparnters-frontend/static/css/main.ea9eefe9.chunk.css.map",
     "static/js/2.3c63cf79.chunk.js.LICENSE.txt": "/saifparnters-frontend/static/js/2.3c63cf79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4ea00a4.js",
     "static/js/2.3c63cf79.chunk.js",
-    "static/css/main.6c5e70fc.chunk.css",
-    "static/js/main.8d46f483.chunk.js"
+    "static/css/main.ea9eefe9.chunk.css",
+    "static/js/main.5aed366b.chunk.js"
   ]
 }
